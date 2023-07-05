@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vKCJCr1Cxg0f7rxEIx37d4+wsVqvVDAzH4dl019eIcU=",
+  "Source": "ChallengeFiap.API",
+  "BasePath": "_content/ChallengeFiap.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

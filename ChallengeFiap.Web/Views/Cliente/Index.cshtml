@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ChallengeFiap.Models.Models.ClienteModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-cinza-fiap">Clientes</h1>
+
+<div class="col-md-6 text-start">
+			<a class="btn bg-red-fiap m-2 btn-sm fw-bold text-white text-decoration-none" asp-action="Create">Novo Cliente +</a>
+	</div>
+<table class="table mt-5">
+    <thead>
+        <tr class="text-red-fiap">
+            <th class="text-red-fiap">
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th class="text-red-fiap">
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th class="text-red-fiap">
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-red-fiap border-red-fiap">
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td class="border-red-fiap text-white">
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td class="border-red-fiap text-white">
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaxX8T6GYbxKdD4AfPRR+PFm891kI1tSn9B7+5BmN07dcECMPYIAen/p4D60K3i1nIJ6BeKdYV2VkpZJ1SwY0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renan\\source\\repos\\ChallengeFiap\\ChallengeFiap.Common\\ChallengeFiap.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

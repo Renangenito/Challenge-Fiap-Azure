@@ -1,0 +1,15 @@
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\bin\Debug\net6.0\ChallengeFiap.Infra.deps.json
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\bin\Debug\net6.0\ChallengeFiap.Infra.dll
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\bin\Debug\net6.0\ChallengeFiap.Infra.pdb
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\bin\Debug\net6.0\ChallengeFiap.Models.dll
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\bin\Debug\net6.0\ChallengeFiap.Models.pdb
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ChallengeFiap.Infra.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ChallengeFiap.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ChallengeFiap.Infra.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ChallengeFiap.Infra.AssemblyInfo.cs
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ChallengeFiap.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ChallengeFiap.Infra.csproj.CopyComplete
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ChallengeFiap.Infra.dll
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\refint\ChallengeFiap.Infra.dll
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ChallengeFiap.Infra.pdb
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.Infra\obj\Debug\net6.0\ref\ChallengeFiap.Infra.dll
