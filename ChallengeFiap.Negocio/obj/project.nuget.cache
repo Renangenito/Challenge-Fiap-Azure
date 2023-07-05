@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mGA/+37k7OylSeEt1tEcQhZfzBuOH/gXY+e1miV4IobTSRYWG5+I+xPrzzkSIQn0DY+A14x4pI/ByTW4nD+tRQ==",
+  "dgSpecHash": "+pPup7O7v53xtM+woykTXo2rorjHefNSuJPK90ThFB6FqiCHNJCiPkwc/IlZ1jiJEcWIqxXu8f9dnZqmdnu4aA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Renan\\source\\repos\\ChallengeFiap\\ChallengeFiap.Negocio\\ChallengeFiap.Negocio.csproj",
   "expectedPackageFiles": [
@@ -75,7 +75,10 @@
     "C:\\Users\\Renan\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Renan\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\Renan\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }

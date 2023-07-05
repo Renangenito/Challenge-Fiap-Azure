@@ -99,3 +99,8 @@ C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\bin\Debug\net6.0\Azu
 C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\bin\Debug\net6.0\System.IO.Hashing.dll
 C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\obj\Debug\net6.0\staticwebassets\msbuild.ChallengeFiap.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ChallengeFiap.API.props
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChallengeFiap.API.props
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChallengeFiap.API.props
+C:\Users\Renan\source\repos\ChallengeFiap\ChallengeFiap.API\obj\Debug\net6.0\staticwebassets.pack.json

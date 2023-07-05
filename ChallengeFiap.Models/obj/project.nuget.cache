@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "rPuLz5YTybxFzWtuBqvqVk8T9SPE9atS6Bdr+XowVY3bzEJIqHSCTjS237GJCyByWuusJQOXnMX4uHIpie0H1Q==",
+  "dgSpecHash": "fLZgQshsMawJXxlUEWEvseIJR+uWh5KlyaeS+7NmchanAqui7jc2zO9PdYd5XyqylOEDX7scTQhqqsXkdpInNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Renan\\source\\repos\\ChallengeFiap\\ChallengeFiap.Models\\ChallengeFiap.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
-    "C:\\Users\\Renan\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+    "C:\\Users\\Renan\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }

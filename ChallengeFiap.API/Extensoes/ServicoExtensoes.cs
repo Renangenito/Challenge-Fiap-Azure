@@ -78,7 +78,9 @@ namespace ChallengeFiap.API.Extensoes
         public static void ConfigurarServicos(this IServiceCollection services)
         {
 
-            string connectionstring = "Server=tcp:db-aluraa.database.windows.net,1433;Initial Catalog=db_alura;Persist Security Info=False;User ID=azureuser;Password=Rnnbezerra2023@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+           
+            string connectionstring = "data source = localhost,1433; user id = sa; password = senha@1234xxxy; initial catalog = db-alura; TrustServerCertificate = True;";
+
             services.AddDbContext<Context>(opt => opt.UseSqlServer(connectionstring));
 
             services.AddScoped<ICliente, Cliente>();

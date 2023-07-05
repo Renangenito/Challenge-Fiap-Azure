@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yqANG/8f8RqX2/F828gloixRxNn3Vju67nf6IDAyQV8i7ZM5Qo3ugBy7PsMhKeA7yQaVoyuZvwXA3IOat4J7eQ==",
+  "dgSpecHash": "VkxxD6Wn53L2cOpSiTyRU+16BK0+VJLxG8EqykYPdfyq1QeOJ/oSm81h35y/1fSlwDDZBVFs+j435YmIbBsyXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Renan\\source\\repos\\ChallengeFiap\\ChallengeFiap.API\\ChallengeFiap.API.csproj",
   "expectedPackageFiles": [
@@ -158,7 +158,11 @@
     "C:\\Users\\Renan\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Renan\\.nuget\\packages\\windowsazure.storage\\9.3.3\\windowsazure.storage.9.3.3.nupkg.sha512"
+    "C:\\Users\\Renan\\.nuget\\packages\\windowsazure.storage\\9.3.3\\windowsazure.storage.9.3.3.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
