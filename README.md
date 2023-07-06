@@ -31,3 +31,8 @@ Para salvar a imagem no Blob Storage foi criado um container com nome de dados.
 ## Clientes
 ![image](https://github.com/Renangenito/Challenge-Fiap-Azure/assets/77756047/b2cea00e-fcc4-4ebd-b84e-aba6003323e3)
 
+
+#Algumas tecnologias usadas nesse projeto:
+* C# .NET 
+* SQL Server
+* Entity Framework
