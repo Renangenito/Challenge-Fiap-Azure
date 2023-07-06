@@ -16,6 +16,8 @@ O Projeto salva os dados do Cliente no banco, no caso O Nome e o Email, já a Im
 
 **OBS:** A string de conexão está no arquivo "ServicoExtensoes" dentro da pasta "Extensoes" no projeto API.
 
+Para salvar a imagem no Blob Storage foi criado um container com nome de dados.
+
 # Pages
 ## Swagger
 ![image](https://github.com/Renangenito/Challenge-Fiap-Azure/assets/77756047/c4cbef60-8b32-404a-bd79-da658986de80)
